@@ -1,5 +1,5 @@
 {
-    "name": "oprudkyi/flysystem-curlftp",
+    "name": "svdv22/flysystem-curlftp",
     "description": "Flysystem V2/V3 Adapter for the FTP with cURL implementation (supports Implicit FTP over TLS and proxy)",
     "keywords": [
         "filesystem", "flysystem", "ftp", "ftps", "ftpd", "files", "file", "implicit FTP over TLS"
